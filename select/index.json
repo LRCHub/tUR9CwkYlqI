@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "プノペタリラ",
+  "base_artist": "Chevon",
+  "createdAt": "2025-12-12T00:50:56.551814Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プノペタリラ",
+      "artist": "Chevon",
+      "has_synced": false,
+      "path": "select/pl_01_プノペタリラ_Chevon.txt"
+    }
+  ]
+}
